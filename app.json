@@ -10,7 +10,7 @@
   "env": {
   "OWNER_NAME": {
   "description": "Enter your name",
-      "value": "PRABATH"
+      "value": "CUTEBOY"
   },
     "DL_SIZE": {
   "description": "The bot cannot download files beyond the number you enter",
@@ -39,11 +39,11 @@
   },  
       "SUDO": {
   "description": "In addition to the bot number, enter another number here to control the bot",
-      "value": "94762280384"
+      "value": "923193651047"
   },
    "ANTILINK_VALUES": {
     "description": "When antilink is turned on, when this link is added, the user will be removed",
-     "value": "chat.whatsapp.com",
+     "value": "923193651047",
      "required" :false
     },
       "READ_MESSAGE": {
@@ -61,7 +61,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94762280384"
+       "value": "923193651047"
   },
    "SESSION_ID": {
     "description": "Scan the QR and enter the code "
@@ -88,7 +88,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "PRABATH-MD🎊;𝚙𝚛𝚊𝚋𝚊𝚝𝚑✅",
+     "value": "CÜTÊ BOY;𝕷↻ℭҠꌩ",
      "required": false 
   }
   
